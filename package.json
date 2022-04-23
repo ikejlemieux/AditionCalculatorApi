@@ -1,0 +1,23 @@
+{
+  "name": "aditioncalculatorapi",
+  "version": "1.0.0",
+  "description": "useless adition calculator api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikejlemieux/AditionCalculatorApi.git"
+  },
+  "author": "ikejlemieux",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ikejlemieux/AditionCalculatorApi/issues"
+  },
+  "homepage": "https://github.com/ikejlemieux/AditionCalculatorApi#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
