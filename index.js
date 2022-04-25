@@ -4,6 +4,7 @@ const port = 80
 
 app.get('/', (req, res) => {
   res.send((parseFloat(req.query.num1) + parseFloat(req.query.num2)).toString())
+  console.log("sent")
 })
 
 app.listen(port)
