@@ -9,6 +9,8 @@ Welcome to this useless API
 
 # Usage
 ## to simply test a premade client for this api go to https://adition-calulator.ikejlemieux.repl.co
+
+
 ### send a GET request to https://AditionCalculatorApi.ikejlemieux.repl.co with these query parameters:
 - "num1" is the 1st number to add
 - "num2" is the 2nd number to add
