@@ -11,5 +11,6 @@ Welcome to this useless API
 ### send a GET request to https://AditionCalculatorApi.ikejlemieux.repl.co with these query parameters:
 - "num1" is the 1st number to add
 - "num2" is the 2nd number to add
+##### This will return the 2 numbers added together
 
 #### for example: https://AditionCalculatorApi.ikejlemieux.repl.co?num1=3&num2=1
