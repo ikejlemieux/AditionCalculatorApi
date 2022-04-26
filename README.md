@@ -17,3 +17,13 @@ Welcome to this useless API
 ##### This will return the 2 numbers added together
 
 #### for example: https://AditionCalculatorApi.ikejlemieux.repl.co?num1=3&num2=1
+
+# Host it yourself
+
+$ git clone https://github.com/ikejlemieux/AditionCalculatorApi
+
+$ cd AditionCalculatorAp
+
+$ npm install
+
+$ npm start
